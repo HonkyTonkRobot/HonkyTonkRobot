@@ -30,9 +30,9 @@
 
 
 ## 🕺 Outside of work I spend my time:
-🔧 - Tinkering with digital manufacturing
-⌨️ - Typing challenges on MonkeyType.com/profile/HonkyTonkRobot
-💃 - Lindy hop dancing
-🌳 - Going to the park with my young family
+- 🔧 Tinkering with digital manufacturing
+- ⌨️ Typing challenges on MonkeyType.com/profile/HonkyTonkRobot
+- 💃 Lindy hop dancing
+- 🌳 Going to the park with my young family
 
 ## 🤝 Connect
