@@ -1,6 +1,6 @@
 # 👋 Kia Ora, I'm Joel
 
-## ✨ About Me
+## About Me
 🥞 I'm a full-stack developer with a background in product management, business operations and product/service design.
 
 🚀 I come from years of experience scaling small business operations, and managing cross-functional teams.
