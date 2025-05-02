@@ -36,3 +36,6 @@
 - 🌳 Going to the park with my young family
 
 ## 🤝 Connect
+[LinkedIn](https://www.linkedin.com/in/honkytonkrobot)
+[CV](https://github.com/honkytonkrobot/honkytonkrobot/blob/main/cv-joel-anderson-1-page.pdf?raw=true)
+
