@@ -37,7 +37,6 @@
 
 ## 🤝 Connect
 [LinkedIn](https://www.linkedin.com/in/honkytonkrobot)  
-[CV](https://github.com/honkytonkrobot/honkytonkrobot/blob/main/cv-joel-anderson-1-page.pdf?raw=true)
 [CV](https://cv-share-j73v.onrender.com) - Hosted on Render.com (may take a minute to load)
 
 
