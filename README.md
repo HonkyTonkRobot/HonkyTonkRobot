@@ -1,13 +1,13 @@
 # 👋 Kia Ora, I'm Joel
 
-## About Me
-🥞 I'm a full-stack developer with a background in product management, business operations and product/service design.
+🥞 I'm an AI native junior developer with a background in product management, business operations and product/service design.
 
 🚀 I come from years of experience scaling small business operations, and managing cross-functional teams.
 
-🧠 I am keen for a new challenge and am looking for a place that will test my mettle, and challenge me to grow as a software developer.
+🛠️ **I feel like I've hit the Jack-pot.** I recently completed a 17-week web dev bootcamp, and have landed my first job at an AI forward Software development consultancy. I had no idea how intersting of a point in the software world I was entering, with the way AI is "disrupting" the industry, and I am coming in the door as an AI native software developer. I will never know what it's like to be a software developer without AI tools, except for the 17 week bootcamp. 
 
-🛠️ I've recently re-trained as a fullstack developer at Dev Academy, and I'm excited to put my experience and new skills to work for your customers.
+It feels a lot like my time in the furniture manufacturing industry. An industry that has really changed over the last 10+ years with the proliferation of CNC (computer numerical control) woodworking machinery. Which has abstracted the furniture manufacturing process away from building furniture with your hands to building furniture with software and machines. I chose the road of learning how to program and design for CNC machines, and it helped my succeed in my industry and I feel like I am getting another opportunity to do that again here, with the software industry. 
+
 
 ## 🤖 Tech Stack
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
@@ -26,17 +26,18 @@
 
 
 ## 🌱 Current Learning
-- Getting Reps in on tech-stack taught at Dev Academy Aotearoa
-
+- Learning How to use `Figma Make` and `Figma - First Draft`
+- Supabase - Auth, Storage, RLS
+- Next.js, Vercel deployment
 
 ## 🕺 Outside of work I spend my time:
 - 🔧 Tinkering with digital manufacturing
-- ⌨️ Typing challenges on MonkeyType.com/profile/HonkyTonkRobot
+- ⌨️ Typing challenges on [MonkyType - Honkytonk Robot](MonkeyType.com/profile/HonkyTonkRobot)
 - 💃 Lindy hop dancing
 - 🌳 Going to the park with my young family
 
 ## 🤝 Connect
-[LinkedIn](https://www.linkedin.com/in/honkytonkrobot)  
+[LinkedIn - Honkytonk Robot](https://www.linkedin.com/in/honkytonkrobot)  
 [CV](https://cv-share-j73v.onrender.com) - Hosted on Render.com (may take a minute to load)
 
 
