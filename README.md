@@ -9,7 +9,7 @@
 It feels a lot like my time in the furniture manufacturing industry. An industry that has really changed over the last 10+ years with the proliferation of CNC (computer numerical control) woodworking machinery. Which has abstracted the furniture manufacturing process away from building furniture with your hands to building furniture with software and machines. I chose the road of learning how to program and design for CNC machines, and it helped me succeed in my industry and I feel like I am getting another opportunity to do that again here, with the software industry.
 
 
-## 🤖 Tech Stack
+## 🤖
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/>
