@@ -26,9 +26,9 @@ It feels a lot like my time in the furniture manufacturing industry. An industry
 
 
 ## 🌱 Current Learning
-- Learning How to use `Figma Make` and `Figma - First Draft`
-- Supabase - Auth, Storage, RLS
-- Next.js, Vercel deployment
+- creating/using sub-agents for `Claude Code`, `GEMINI CLI`, and `Codex CLI`
+- Creating a Supabase/Next.js Starter repo
+- v0.app -- project instructions/source files, github 2-way sync, design system
 
 ## 🕺 Outside of work I spend my time:
 - 🔧 Tinkering with digital manufacturing
@@ -38,6 +38,4 @@ It feels a lot like my time in the furniture manufacturing industry. An industry
 
 ## 🤝 Connect
 [LinkedIn - Honkytonk Robot](https://www.linkedin.com/in/honkytonkrobot)
-[CV](https://cv-share-j73v.onrender.com) - Hosted on Render.com (may take a minute to load)
-
 
