@@ -23,9 +23,8 @@ It feels a lot like my time in the furniture manufacturing industry. An industry
 
 
 ## 🌱 Current Learning
-- creating/using sub-agents for `Claude Code`, `GEMINI CLI`, and `Codex CLI`
-- Creating a Supabase/Next.js Starter repo
-- v0.app -- project instructions/source files, github 2-way sync, design system
+- Writing Evals for LLM workflows
+- exploring `beads` git tracked issues
 
 ## 🕺 Outside of work I spend my time:
 - 🔧 Tinkering with digital manufacturing
